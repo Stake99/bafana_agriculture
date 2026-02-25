@@ -1,0 +1,11 @@
+[00:00:00.851] Server  LOG     ✓ Ready in 615ms
+[00:00:03.319] Server  WARN    Image with src "/images/karsten-wurth-UbGYPMbMYP8-unsplash.jpg" is using quality "90" which is not configured in images.qualities [75]. Please update your config to [75, 90].
+Read more: https://nextjs.org/docs/messages/next-image-unconfigured-qualities
+[00:00:04.070] Browser WARN    Image with src "/images/karsten-wurth-UbGYPMbMYP8-unsplash.jpg" is using quality "90" which is not configured in images.qualities [75]. Please update your config to [75, 90].
+Read more: https://nextjs.org/docs/messages/next-image-unconfigured-qualities
+[00:00:04.070] Browser WARN    Image with src "/images/logo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:04.070] Browser WARN    Image with src "/images/people/aiony-haust-3TLl_97HNJo-unsplash.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:04.070] Browser WARN    Image with src "/images/people/joseph-gonzalez-iFgRcqHznqg-unsplash.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:04.070] Browser WARN    Image with src "/images/people/michael-dam-mEZ3PoFGs_k-unsplash.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:04.070] Browser WARN    Image with src "/images/veronica-white-_mPYU2GLC3s-unsplash.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:04.070] Browser WARN    Image with src "/images/tim-mossholder-xDwEa2kaeJA-unsplash.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
